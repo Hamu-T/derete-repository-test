@@ -11,4 +11,8 @@
 .header__logo {
   display: flex;
 }
+
+.main__nav {
+  display: flex;
+}
 /*# sourceMappingURL=style.css.map */
