@@ -14,5 +14,13 @@
 
 .main__nav {
   display: flex;
+  list-style: none;
+}
+.main__item a {
+  display: block;
+  padding: 20px 40px;
+  margin-left: 10px;
+  background-color: cornflowerblue;
+  text-decoration: none;
 }
 /*# sourceMappingURL=style.css.map */
