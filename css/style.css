@@ -1,2 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+}
 
+.header__logo {
+  display: flex;
+}
 /*# sourceMappingURL=style.css.map */
